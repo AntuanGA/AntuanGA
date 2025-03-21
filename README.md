@@ -12,7 +12,7 @@
 ---
 
 ### 💻 **Un poco más sobre mí...**  
-
+```javascript
 const yo = {
   pronombres: "él" | "él",
   code: ["HTML", "CSS", "JavaScript", "Python", "SQL"],
