@@ -1,4 +1,4 @@
-## 👋 ¡Hola! Soy Antuan ![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBnMWM2djZoYjZ2ajY1Y2trMXR4cjBzeW9jY3RvaDRjdzViNGs3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
+## 👋 ¡Hola! Soy Antuan ![Coding GIF][(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBnMWM2djZoYjZ2ajY1Y2trMXR4cjBzeW9jY3RvaDRjdzViNGs3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThuMmZvN3J3N2RlZHQxYXJsNzN6bmIwanpsNGtucnhpYXRzeDEzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif)
 
 🚀 **Desarrollador Web en constante evolución**  
 💪 **Apasionado por el código y el rendimiento deportivo**  
@@ -17,5 +17,5 @@ const yo = {
   mensaje: "¡Siempre en busca de nuevos desafíos y conexiones geniales!"
 }
 
-## 🌐 **Conéctate conmigo:**  
+🌐 Conéctate conmigo: 
 - [LinkedIn] https://www.linkedin.com/in/antonio-gomez-alvarez/
