@@ -7,12 +7,12 @@
 ---
 
 ### 🌐 **Conéctate conmigo:**
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/antonio-gomez-alvarez/)
+ [LinkedIn](https://www.linkedin.com/in/antonio-gomez-alvarez/)
 
 ---
 
 ### 💻 **Un poco más sobre mí...**  
-```javascript
+
 const yo = {
   pronombres: "él" | "él",
   code: ["HTML", "CSS", "JavaScript", "Python", "SQL"],
