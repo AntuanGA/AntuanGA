@@ -1,6 +1,4 @@
-## 👋 ¡Hola! Soy Antuan 
-
-![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBnMWM2djZoYjZ2ajY1Y2trMXR4cjBzeW9jY3RvaDRjdzViNGs3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
+## 👋 ¡Hola! Soy Antuan ![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBnMWM2djZoYjZ2ajY1Y2trMXR4cjBzeW9jY3RvaDRjdzViNGs3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
 
 🚀 **Desarrollador Web en constante evolución**  
 💪 **Apasionado por el código y el rendimiento deportivo**  
@@ -18,3 +16,6 @@ const yo = {
   retos: "Actualmente estoy mejorando mis habilidades en React, Flask y SQL",
   mensaje: "¡Siempre en busca de nuevos desafíos y conexiones geniales!"
 }
+
+## 🌐 **Conéctate conmigo:**  
+- [LinkedIn] https://www.linkedin.com/in/antonio-gomez-alvarez/
