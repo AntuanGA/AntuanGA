@@ -7,7 +7,7 @@
 ---
 
 ### 🌐 **Conéctate conmigo:**
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013%2C_svg%2C_dark.svg)](https://www.linkedin.com/in/antonio-gomez-alvarez/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/antonio-gomez-alvarez/)
 
 ---
 
